@@ -74,7 +74,7 @@ export const Footer: React.FC = () => (
             </div>
             
             <div className="mt-16 pt-8 border-t border-white/10 text-center">
-                <p className="text-sm text-gray-400">&copy; {new Date().getFullYear()} {CONTACT_INFO.studioName}. All rights reserved.</p>
+                <p className ="text-sm text-gray-400">&copy; {new Date().getFullYear()} {CONTACT_INFO.studioName}. All rights reserved.</p>
             </div>
         </div>
     </footer>
